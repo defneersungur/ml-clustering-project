@@ -48,3 +48,19 @@ A machine learning project consisting of two parts: a supervised classification 
 | Pandas & NumPy | Data manipulation |
 | Scikit-learn | ML models and preprocessing |
 | Matplotlib & Seaborn | Data visualization |
+
+## Results & Visualizations
+
+### Clustering Comparison (PCA)
+![Clustering Results](clustering_results.png)
+
+### Algorithm Performance
+![Silhouette Comparison](silhouette_comparison.png)
+
+### Optimal K Selection
+![K Selection](kmeans_silhouette_per_k.png)
+
+## Data
+- `CTIS471_2425_first_part.csv` — Part 1 healthcare dataset (height/weight)
+- `credit_score_dataset.csv` — Part 2 customer segmentation dataset
+- `preprocessed_data.csv` — Preprocessed version of Part 2 data
